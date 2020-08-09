@@ -247,3 +247,7 @@
     text-shadow: none;
     opacity: 0.5;
 }
+
+.board-select{
+    font: 400 13.3333px Arial;
+}
